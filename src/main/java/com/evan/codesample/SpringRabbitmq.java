@@ -5,5 +5,11 @@ package com.evan.codesample;
  */
 public class SpringRabbitmq {
 
-    
+    public void producer() {
+
+    }
+
+    public void comsumer() {
+
+    }
 }
